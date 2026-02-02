@@ -3,3 +3,4 @@ chess==1.11.1
 autogen==0.6.1
 cairosvg
 pillow
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
