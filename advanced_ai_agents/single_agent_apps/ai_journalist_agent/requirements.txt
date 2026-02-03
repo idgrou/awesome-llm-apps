@@ -4,3 +4,4 @@ openai
 google-search-results 
 newspaper4k 
 lxml_html_clean
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
