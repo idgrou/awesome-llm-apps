@@ -3,3 +3,4 @@ agno>=2.2.10
 mcp>=0.1.0
 openai>=1.0.0
 asyncio>=3.4.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
