@@ -4,3 +4,4 @@ firecrawl-py==1.9.0
 gradio==5.9.1
 pydantic
 dataclasses
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
