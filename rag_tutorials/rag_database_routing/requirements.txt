@@ -9,3 +9,4 @@ agno
 langchain-openai==0.2.14
 langgraph==0.2.53
 duckduckgo-search==6.4.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
