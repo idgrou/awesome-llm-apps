@@ -3,3 +3,4 @@ ollama
 langchain 
 langchain_community
 langchain_ollama
+protobuf>=5.29.6 # not directly required, pinned by Snyk to avoid a vulnerability
