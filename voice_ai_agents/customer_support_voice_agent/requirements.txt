@@ -5,3 +5,4 @@ fastembed
 openai>=1.0.0
 python-dotenv 
 openai-agents
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
