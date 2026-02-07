@@ -3,3 +3,4 @@ agno>=1.1.7
 firecrawl-py>=1.9.0
 e2b-code-interpreter>=1.0.3
 openai>=1.30.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
