@@ -3,3 +3,4 @@ agno>=2.2.10
 openai
 icalendar
 google-search-results
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
