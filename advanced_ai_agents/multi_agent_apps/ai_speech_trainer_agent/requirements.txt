@@ -14,3 +14,4 @@ moviepy
 faster-whisper
 fastapi
 uvicorn
+keras>=3.13.2 # not directly required, pinned by Snyk to avoid a vulnerability
