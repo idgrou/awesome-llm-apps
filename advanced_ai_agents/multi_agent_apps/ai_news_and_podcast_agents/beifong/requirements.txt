@@ -138,7 +138,7 @@ numba==0.61.2
 numpy==1.26.4
 ollama==0.4.7
 openai==1.74.0
-orjson==3.10.16
+orjson==3.11.6
 packaging==24.2
 pandas==2.2.3
 phonemizer-fork==3.3.2
